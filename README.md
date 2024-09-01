@@ -32,7 +32,7 @@ Transcriptor é uma aplicação de transcrição de áudio desenvolvida em Pytho
 
    ```bash
    git clone https://github.com/euandros/transcriptor.git
-   cd transcriptor-vansor
+   cd transcriptor
 
 2. **Baixe o modelo vosk:**
 
@@ -52,30 +52,25 @@ Transcriptor é uma aplicação de transcrição de áudio desenvolvida em Pytho
 1. **Executar a aplicação:**
    
    ```bash
-   python transcriptor_vansor.py
-
+   python transcriptor.py
 ![image](https://github.com/user-attachments/assets/4dfa4b13-f4a6-4918-998c-9c182d9a579b)
 
 2. **Selecionar o arquivo de áudio:**
 
 Clique no botão "Procurar" e selecione o arquivo de áudio que deseja transcrever.
-
 ![image](https://github.com/user-attachments/assets/b6b0a625-fcfb-4ecc-8705-7a2ab1539ef3)
 
 3. **Transcrever o áudio:**
 
 Clique em "Transcrever". A barra de progresso indicará o andamento da transcrição.
-
 ![image](https://github.com/user-attachments/assets/b59fd6a7-3c83-4d77-9f55-3c7859488238)
 
 Ao fim da transcrição, caso bem sucedida, uma mensagem será exibida na área de log da interface.
-
 ![image](https://github.com/user-attachments/assets/ad46783d-8e95-45c4-934a-7b544f2d50b0)
   
 4. **Salvar a transcrição:**
 
 Clique em "Salvar" para armazenar o texto transcrito em um arquivo .txt.
-
 ![image](https://github.com/user-attachments/assets/fab09b4b-ac38-4bf1-a0e0-3aa8b2a657ad)
 
 5. **Buscar por palavra-chave:**
