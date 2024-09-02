@@ -3,7 +3,7 @@
 ![Segmento](https://img.shields.io/badge/Segmento_:-Inteligência_de_Áudio-darkyellow?style=flat-square) ![Função](https://img.shields.io/badge/Função_:-Transcrição_de_Áudio-darkyellow?style=flat-square) 
 ![Fase](https://img.shields.io/badge/Fase_:-Desenvolvimento-darkorange?style=flat-square) ![Versão](https://img.shields.io/badge/versão_:-1.0-darkyellow?style=flat-square) ![Tecnologias](https://img.shields.io/badge/Tecnologias_:-Pydub,_Tkinter,_Vosk-darkyellow?style=flat-square) 
 
-**Transcriptor** é uma aplicação gráfica em Python que permite a transcrição offline de arquivos de áudio para texto utilizando o modelo de reconhecimento de fala Vosk. A aplicação suporta diversos formatos de áudio, como MP3, OGG, FLAC e WAV, e permite salvar a transcrição resultante em um arquivo de texto.
+<p style='text-align: justify;'> Transcriptor é uma aplicação gráfica em Python que permite a transcrição offline de arquivos de áudio para texto utilizando o modelo de reconhecimento de fala Vosk. A aplicação suporta diversos formatos de áudio, como MP3, OGG, FLAC e WAV, e permite salvar a transcrição resultante em um arquivo de texto.</p>
 
 ## Índice
 
@@ -72,34 +72,34 @@
 
 ![image](https://github.com/user-attachments/assets/bb2d9bfa-f8fe-4ef8-867c-f08caeaf4f07)
 
-Na interface gráfica que será aberta:
+<p style='text-align: justify;'> Na interface gráfica que será aberta:</p>
 
-Clique em "Procurar" para selecionar o arquivo de áudio que deseja transcrever.
+<p style='text-align: justify;'> Clique em "Procurar" para selecionar o arquivo de áudio que deseja transcrever.</p>
 
 ![image](https://github.com/user-attachments/assets/b6b0a625-fcfb-4ecc-8705-7a2ab1539ef3)
 
-Após a conclusão, você pode salvar a transcrição em um arquivo de texto clicando em "Salvar".
+<p style='text-align: justify;'> Após a conclusão, você pode salvar a transcrição em um arquivo de texto clicando em "Salvar".</p>
 
 2. **Transcrever o áudio:**
 
-Clique em "Transcrever" para iniciar o processo de transcrição. A barra de progresso mostrará o andamento da transcrição.
+<p style='text-align: justify;'>Clique em "Transcrever" para iniciar o processo de transcrição. A barra de progresso mostrará o andamento da transcrição.</p>
 
 ![image](https://github.com/user-attachments/assets/99579c73-5b7e-4be5-9fd1-d4d6f6869328)
 
-Ao fim da transcrição, caso bem sucedida, uma mensagem será exibida na área de log da interface.
+<p style='text-align: justify;'> Ao fim da transcrição, caso bem sucedida, uma mensagem será exibida na área de log da interface.</p>
 
 ![image](https://github.com/user-attachments/assets/75867c43-2d02-4d40-b6ae-e75853686907)
   
 4. **Salvar a transcrição:**
 
-Clique em "Salvar" para armazenar o texto transcrito em um arquivo .txt.
+<p style='text-align: justify;'> Clique em "Salvar" para armazenar o texto transcrito em um arquivo .txt.</p>
 
 ![image](https://github.com/user-attachments/assets/fab09b4b-ac38-4bf1-a0e0-3aa8b2a657ad)
 
 ## Contribuição
 
-Contribuições são bem-vindas! Se você quiser melhorar este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+<p style='text-align: justify;'> Contribuições são bem-vindas! Se você quiser melhorar este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.</p>
 
 ## Licença
 
-Este projeto é licenciado sob a MIT License.
+<p style='text-align: justify;'> Este projeto é licenciado sob a MIT License.</p>
