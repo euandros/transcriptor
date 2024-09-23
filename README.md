@@ -1,7 +1,9 @@
 # Transcriptor
 
-![Segmento](https://img.shields.io/badge/Segmento_:-Inteligência_de_Áudio-darkyellow?style=flat-square) ![Função](https://img.shields.io/badge/Função_:-Transcrição_de_Áudio-darkyellow?style=flat-square) 
-![Fase](https://img.shields.io/badge/Fase_:-Desenvolvimento-darkorange?style=flat-square) ![Versão](https://img.shields.io/badge/versão_:-1.0-darkyellow?style=flat-square) ![Tecnologias](https://img.shields.io/badge/Tecnologias_:-Pydub,_Tkinter,_Vosk-darkyellow?style=flat-square) 
+![Segmento](https://img.shields.io/badge/Segmento_:-Inteligência_de_Áudio-darkblue?style=flat-square) 
+![Fase](https://img.shields.io/badge/Fase_:-Experimental-lightgreen?style=flat-square) 
+![Tecnologias](https://img.shields.io/badge/Tecnologias_:-Pydub,_Tkinter,_Vosk-lightgreen?style=flat-square) 
+![Versão](https://img.shields.io/badge/versão_:-1.0-darkgreen?style=flat-square)
 
 <p style='text-align: justify;'> Transcriptor é uma aplicação gráfica em Python que permite a transcrição offline de arquivos de áudio para texto utilizando o modelo de reconhecimento de fala Vosk. A aplicação suporta diversos formatos de áudio, como MP3, OGG, FLAC e WAV, e permite salvar a transcrição resultante em um arquivo de texto.</p>
 
